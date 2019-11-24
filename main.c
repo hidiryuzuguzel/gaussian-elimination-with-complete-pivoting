@@ -1,7 +1,5 @@
-/*EE242 2nd PROJECT GAUSSIAN ELIMINATION WITH COMPLETE PIVOTING
-Name of the Student: Hýdýr Yüzügüzel
-Student #:2008401159
-e-mail: hidiryuzuguzel@boun.edu.tr
+/* GAUSSIAN ELIMINATION WITH COMPLETE PIVOTING
+author: Hidir Yuzuguzel
 */
 #include <stdio.h>
 #include <stdlib.h>
